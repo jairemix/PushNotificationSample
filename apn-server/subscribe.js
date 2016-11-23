@@ -4,9 +4,9 @@ var http = require('http');
 var user = {
   user: 'user1',
   type: 'ios',
-  token: '796b796c6492e32c61vbd2aac154cdb22468fab1b822052db1b81a99e9322048'
+  token: '64a2535473a4a0c92dcc2f0dfcc7672cd4524d4630767a6609a2d3d0d8bfae6e'
 }
- 
+
 var userString = JSON.stringify(user);
 
 var headers = {
